@@ -16,9 +16,9 @@ OBSERVE gives you a small, deterministic observation prompt, saves it before you
 
 **Start expedition → put phone away → observe → return → write a field note → optional Gemma reflection → tomorrow’s observation**
 
-## Screenshots / demo
+## Demo
 
-_Add screenshots or a short demo recording here._
+
 
 ## Features
 
